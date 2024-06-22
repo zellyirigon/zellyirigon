@@ -13,8 +13,8 @@
   <a href="https://github.com/ZellyIrigon"> 
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZellyIrigon&layout=compact&langs_count=7&theme=dracula"/>
   </a>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ZellyIrigon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/ZellyIrigon/ZellyIrigon/blob/main/github-contribution-grid-snake.svg)
+
 
