@@ -9,14 +9,12 @@
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>| 
 
-  
 
 ### Frameworks and Libraries for Python:
 
 | Pytorch |  Numpy| Pandas | Sklearn | Matplotlib |   
 |----------|----------|----------|----------|----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| 
-
 
 
 ### Tools for Data Manipulation:
@@ -30,7 +28,7 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" />
   <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=zellyirigon&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=zellyirigon&theme=radical" />
+  <img width="390px" src="https://github-readme-streak-stats.herokuapp.com/?user=zellyirigon&theme=radical" />
 </div>
 
 
