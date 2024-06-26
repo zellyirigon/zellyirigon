@@ -2,19 +2,47 @@
 
 :boom: Welcome to my GitHub profile! I'm Zelly, an aspiring Data Scientist with a keen interest in uncovering insights and solving real-world problems through data. My journey in data science is fueled by curiosity and a desire to constantly learn and grow. Dive into my repositories to explore my projects and see how I'm pushing the boundaries of data analytics and machine learning. Let's connect and collaborate on turning data into impactful solutions!
 
-## Tools and Languages
+## Tools, Frameworks and Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="90" style="margin: 90px; padding: 10px; background-color: #ffffff; border-radius: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" alt="Apache Spark" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="80" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;">
-</a>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" width="60" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="75" style="margin: 60px; padding: 10px; background-color: #ffffff; border-radius: 10px;">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="75" style="margin: 80px; padding: 10px; background-color: #ffffff; border-radius: 10px;"> 
+### Languages:
+| Python | R | JavaScript | HTML | CSS |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="55" height="55"/>| 
+
+  
+
+### Frameworks and Libraries for Python:
+
+| Pytorch |  Numpy| Pandas | Sklearn | Matplotlib |   
+|----------|----------|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| 
+
+
+
+### Tools for Data Manipulation:
+
+| Conda | Jupyter | Spark | MySQL | 
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
+
 
 ## GitHub Statistics
 <div>
-  <a href="https://github.com/ZellyIrigon"> 
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZellyIrigon&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
- <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p style="text-align: left;">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" alt="Top Languages" width="400" style="float: left;">
+    <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical" alt="GitHub Stats" width="600" style="float: left;">
+  </p>
+  <div style="clear: both;"></div>
 </div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
