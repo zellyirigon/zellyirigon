@@ -25,14 +25,12 @@
 |----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|
 
-
 ## GitHub Statistics
 <div>
-  <p style="text-align: left; margin: 0; padding: 0;">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" alt="Top Languages" style="float: left;">
-    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left;">
-  </p>
-  <div style="clear: both;"></div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=zellyirigon&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=zellyirigon&theme=radical" />
 </div>
 
 
