@@ -44,5 +44,7 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+## Feeding...
+![Snake animation](https://raw.githubusercontent.com/zellyirigon}/zellyirigon/output/github-contribution-grid-snake-dark.svg)
 
 
