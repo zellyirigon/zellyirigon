@@ -28,9 +28,9 @@
 
 ## GitHub Statistics
 <div>
-  <p style="text-align: left;">
-    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" alt="Top Languages" width="400" style="float: left;">
-    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical" alt="GitHub Stats" width="600" style="float: left;">
+  <p style="text-align: left; margin: 0; padding: 0;">
+    <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" alt="Top Languages" style="float: left;">
+    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical" alt="GitHub Stats" style="float: left;">
   </p>
   <div style="clear: both;"></div>
 </div>
