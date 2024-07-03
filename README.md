@@ -22,7 +22,7 @@
   <p align="left">
     <a href="https://github.com/zellyirigon">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical" alt="GitHub Stats">
-      <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical" alt="Top Languages">
+      <img height="175em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&theme=radical&v=1" alt="Top Languages">
       <img height="147em" src="https://github-readme-activity-graph.vercel.app/graph?username=zellyirigon&theme=github" alt="GitHub Activity Graph">
       <img height="147em" src="https://github-readme-streak-stats.herokuapp.com/?user=zellyirigon&theme=radical" alt="GitHub Streak Stats">
 </div>
