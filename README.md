@@ -17,7 +17,7 @@
 
 ## GitHub Statistics
 <div>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show=reviews,prs_merged,prs_merged_percentag&show_icons=true&hide=contribs,prs&theme=radical" alt="GitHub Stats">
       <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&langs_count=8&theme=radical&v=1" alt="Top Languages">
       <img height="147em" src="https://github-readme-activity-graph.vercel.app/graph?username=zellyirigon&theme=github" alt="GitHub Activity Graph">
       <img height="147em" src="https://github-readme-streak-stats.herokuapp.com/?user=zellyirigon&theme=radical" alt="GitHub Streak Stats">
