@@ -1,27 +1,26 @@
-## Hi there 👋
-
-:boom: Welcome to my GitHub profile! I'm Zelly, an aspiring Data Scientist with a keen interest in uncovering insights and solving real-world problems through data. My journey in data science is fueled by curiosity and a desire to constantly learn and grow. Dive into my repositories to explore my projects and see how I'm pushing the boundaries of data analytics and machine learning. Let's connect and collaborate on turning data into impactful solutions!
-
-## Tools, Frameworks and Languages
-
-| Python | R  | PostgreSQL | Pytorch | Numpy | Pandas | Sklearn | Matplotlib |   
-|---------|-------|--------|---------|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="55" height="55"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgres" alt="Postgres" width="55" height="55"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="Pytorch" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| 
+## Hi there! 👋
 
 
-| AWS | Azure | Power BI | Jupyter | Docker | Spark | JavaScript | C# |
-|-----------|-------------|----------|---------|--------|-------|------------|----|
-| <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" title="AWS cloud" alt="AWS cloud" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png" title="Azure cloud" alt="Azure cloud" width="55" height="55" style="background-color: transparent;"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" title="Power BI" alt="Power BI" width="55" height="55" style="background-color: transparent;"/>| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> |
+Welcome to my Github Profile! I'm Zelly, a passionate **Data Analyst** with a strong drive for uncovering insights and transforming raw data into actionable strategies. Fueled by curiosity and a commitment to continuous learning, I thrive on solving real-world challenges through data analysis and visualization.  
+
+In my journey, I've developed a deep interest in exploring how data shapes decision-making and enhances organizational efficiency. Here, you'll find a collection of my projects showcasing my skills in:  
+
+- 📊 **Data Cleaning & Analysis**  
+- 📈 **Data Visualization**  
+- 🔍 **Exploratory Data Analysis (EDA)**  
+- 📚 **SQL, Python, and Excel Applications**  
+
+Dive into my repositories to see how I approach data challenges and deliver impactful results. Let's connect, collaborate, and turn data into meaningful solutions!  
+
+---
+### Tools, Languages, and Technologies  
+
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)          |
 
 
 
-## GitHub Statistics
-<div>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=zellyirigon&show=reviews,prs_merged,prs_merged_percentag&show_icons=true&hide=contribs,prs&theme=radical" alt="GitHub Stats">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zellyirigon&layout=compact&langs_count=8&theme=radical&v=1" alt="Top Languages">
-      <img height="147em" src="https://github-readme-activity-graph.vercel.app/graph?username=zellyirigon&theme=github" alt="GitHub Activity Graph">
-      <img height="147em" src="https://github-readme-streak-stats.herokuapp.com/?user=zellyirigon&theme=radical" alt="GitHub Streak Stats">
-</div>
 
 
 
