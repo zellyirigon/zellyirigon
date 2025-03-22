@@ -6,9 +6,9 @@ Welcome to my Github Profile! I'm Zelly, a passionate **Data Analyst** with a st
 In my journey, I've developed a deep interest in exploring how data shapes decision-making and enhances organizational efficiency. Here, you'll find a collection of my projects showcasing my skills in:  
 
 - 📊 **Data Cleaning & Analysis**  
-- 📈 **Data Visualization**  
+- 📈 **Data Visualisation**  
 - 🔍 **Exploratory Data Analysis (EDA)**  
-- 📚 **SQL, Python, and Excel Applications**  
+- 📚 **SQL, Python, Power Bi Applications**  
 
 Dive into my repositories to see how I approach data challenges and deliver impactful results. Let's connect, collaborate, and turn data into meaningful solutions!  
 
@@ -21,10 +21,5 @@ Dive into my repositories to see how I approach data challenges and deliver impa
 
 
 
-
-
-
-## Feeding...
-![Snake animation](https://raw.githubusercontent.com/zellyirigon/zellyirigon/output/github-contribution-grid-snake-dark.svg)
 
 
