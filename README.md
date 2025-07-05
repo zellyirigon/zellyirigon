@@ -12,7 +12,7 @@ What keeps me going? Curiosity, problem-solving, and the idea that data isn’t 
 #### 📊 Analytics & Visualization  
 ![Python](https://img.shields.io/badge/Python-E7625F?style=for-the-badge&logo=python&logoColor=FFFFFF) ![SQL](https://img.shields.io/badge/SQL-8477AD?style=for-the-badge&logo=postgresql&logoColor=FFFFFF) ![Power BI](https://img.shields.io/badge/Power_BI-F7BEC0?style=for-the-badge&logo=microsoft-power-bi&logoColor=000000)
 
-#### ☁️ Cloud & Data Engineering  
+#### ☁️ Cloud Computing  
 ![Azure](https://img.shields.io/badge/Azure-63568C?style=for-the-badge&logo=microsoft-azure&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/AWS-20AD96?style=for-the-badge&logo=amazon-aws&logoColor=FFFFFF)
 
 #### 📦 Data Toolkit  
